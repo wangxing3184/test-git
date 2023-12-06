@@ -1,6 +1,9 @@
 #ifndef  __EQ_PROCESS_H__
 #define  __EQ_PROCESS_H__
 
+jkdjlaskjfdlsjfl
+jfklaf
+17:28
 
 typedef struct {
 	float frequency;
