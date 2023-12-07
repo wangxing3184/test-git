@@ -2,7 +2,8 @@
 #define  __EQ_PROCESS_H__
 
 
-17:30 disanci
+17:30 disanci00
+12.27.10.07
 
 typedef struct {
 	float frequency;
