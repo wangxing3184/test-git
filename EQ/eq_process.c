@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include "eq_process.h"
-
+1111
 void initializeEQ(EQ *eq, float frequency, float gain, float qFactor) {
 	eq->frequency = frequency;
 	eq->gain = pow(10,gain/20);
